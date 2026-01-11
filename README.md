@@ -152,23 +152,14 @@ LSTM + Dropout + Dense
 
 ### 2. 数据集
 - ✅ 原始数据：`选题三_Data/`
-- ✅ 预处理数据：`processed_data/` (CSV/Parquet格式)
 - ✅ 数据集描述文档
 - ✅ Hugging Face数据集集成
 
-### 3. 实验报告
-- ✅ MCM格式报告：`实验报告_MCM格式.md`
-- ✅ 包含研究局限与未来改进方向
-- ✅ GitHub代码链接（待填入）
+### 3. GitHub仓库
+- ✅ 代码已上传至GitHub：https://github.com/zzn20230810/Final-assignment.git
 
-## GitHub仓库
+### 4. Hugging Face数据集
+- ✅ 数据集已上传至Hugging Face：https://huggingface.co/datasets/saxasxa/2024_Wimbledon_featured_matches
 
-代码已上传至GitHub：[待填入链接]
-
-## 作者
-
-大数据系统原理与应用 - 期末作业二
-
-## 日期
-
-2024年
+### 5. WandB项目记录
+- ✅ 项目记录已上传至WandB：https://wandb.ai/zzn20230810-/tennis-momentum?nw=nwuserzzn20230810
